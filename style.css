@@ -168,12 +168,12 @@ body {
 }
 
 .tiktok .icon-wrapper {
-    background: linear-gradient(135deg, #000000);
+    background: linear-gradient(135deg, #000000, #1f1114);
     color: white;
 }
 
 .snapchat .icon-wrapper {
-    background: linear-gradient(135deg, #f1ce43);
+    background: linear-gradient(135deg, #f1ce43, #dad721);
     color: white;
 }
 
