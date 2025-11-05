@@ -42,7 +42,8 @@ body {
     width: 120px;
     height: 120px;
     margin: 0 auto;
-    background: linear-gradient(135deg, #d4af37 0%, #f4d03f 100%);
+    /* background: linear-gradient(135deg, #d4af37 0%, #f4d03f 100%); */
+    background-color: white;
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -62,16 +63,14 @@ body {
     right: 10px;
     width: 20px;
     height: 20px;
-    background: #f4d03f;
+    background: white;
     border-radius: 50%;
-    box-shadow: 0 0 15px rgba(244, 208, 63, 0.6);
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.6);
 }
 
 .logo-text {
-    font-size: 60px;
-    font-weight: bold;
-    color: #1a1410;
-    font-family: Georgia, serif;
+    width: 200px;
+    margin-top: 12px;
 }
 
 .brand-name {
